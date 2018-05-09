@@ -3,9 +3,8 @@
 
 def random
   result = [true, false].sample
-  puts result
+  result
 end
-
 if random == true
   puts 'sí'
 elsif random == false

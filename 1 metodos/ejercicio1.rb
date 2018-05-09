@@ -4,9 +4,9 @@
 
 def par(x)
   if x % 2 == 0
-    return true
+    true
   else
-    return false
+    false
   end
 end
 
